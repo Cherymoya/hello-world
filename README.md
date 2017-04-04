@@ -1,2 +1,2 @@
 # hello-world
-console.log(Hi!)
+hello
